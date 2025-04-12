@@ -28,7 +28,7 @@ h1, h2 {
 }
 
 .header-banner {
-    margin-top: 5px;
+    margin-top: 12px;
     display: flex;
     justify-content: space-between;
     align-items: center;
